@@ -24,9 +24,8 @@ and a view _ranking_, that creates a list of players including ID, name, matches
 Requirements
 ------------
 
-Python 2.7 or superior.
-PostgreSql.
-Psycopg2.
+* Python 2.7 or superior.
+* PostgreSQL and Psycopg2.
 
 
 Installation and usage

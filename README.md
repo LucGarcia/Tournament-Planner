@@ -25,8 +25,8 @@ Requirements
 ------------
 
 Python 2.7 or superior.
-PostgreSql
-Psycopg2
+PostgreSql.
+Psycopg2.
 
 
 Installation and usage
